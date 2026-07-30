@@ -1,11 +1,9 @@
 # Hi, I'm Mohammed Danish 👋
 
-I am the owner and developer of **DDf Danish Dairy Farm**.
+I am a **Web Developer** from **Mahuwari, Sant Kabir Nagar, Uttar Pradesh, India**. 
 
-## 🌐 My Project
+## 🌐 My Work
+* Creator and developer of **DDf Danish Dairy Farm**.
 * **Official Website:** [DDf Danish Dairy Farm](http://page.gd)
 
-## 🥛 About Me
-* Managing dairy operations and digital presence for DDf.
-* Based in India.
 
